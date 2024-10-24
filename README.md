@@ -22,3 +22,4 @@ Since 2014 there has been a noticeably downward trend in delivery percentage for
 For gas there has been a slight decline in gas consumption for all companies bar a few outlier years. 
 
 ## Recomendation
+While all stats for delivery % is down Stedin has the slowest decline of all providers. High smart metre adoption suggests openness to smarter energy use and potential market to push programs. Furthermore, very low smart metre adoption for Coteq and Endinet providers suggest push for adopting should be focused in these markets. Lastly, customers with 1x25 connections also show low adoption.
