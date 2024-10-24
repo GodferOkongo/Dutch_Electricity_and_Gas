@@ -1,7 +1,7 @@
 # Dutch_Electricty_and_Gas
 
 ## Objective
-"How does the annual gas consumption vary across different regions (based on zip codes or cities) for each provider (e.g., Liander Gas) over the years, and is there any correlation between the number of connections, type of connection, or the presence of smart meters with higher or lower consumption?"
+Analysis of datasets relating to energy consumption in the Netherlands from  2013 to 2018 was conducted. Excel was used to clean and analyse over a combined 8 million records before Power BI was used to create an interactive dashboard to illustrate trends and related to energy consumption, regional and provider differences and key factors. Insights and recommendations geared towards making informed decisions about promotion of new energy efficient programs, smart metre adoption and infrastructure relating to renewable energy. 
 
 ### Tools Used
 
