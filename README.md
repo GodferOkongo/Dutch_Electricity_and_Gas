@@ -23,12 +23,11 @@ Self-Production Analysis: To analyse city and country wide trends that relate re
 
 ## Data Description
 The analyst is based on a rich dataset encompassing several key aspects to the Dutch energy system.
+1.Geographical Details: Geographical data that details the regions where the providers operate at a regional, zip, city and street level. This information can be used to __
 
-Geographical Details: Geographical data that details the regions where the providers operate at a regional, zip, city and street level. This information can be used to
+2.Connection Details: The information provides details for connections in terms of where they are located, if they’re active, how many there are, and the type of connection. This can be used to __
 
-Connection Details: The information provides details for connections in terms of where they are located, if they’re active, how many there are, and the type of connection. This can be used to 
-
-Consumption Details: The datasets provide information related to the amount energy consumed overall, how much was given back to the grid and when they were consumed.
+3.Consumption Details: The datasets provide information related to the amount energy consumed overall, how much was given back to the grid and when they were consumed.
 
 The use of geographical, connection and consumption details allow for a deeper understanding about the production of Dutch energy, and in turn the action required to increase sustainable energy use. By focusing on key factors and their effects, effective steps can be undertaken. 
 
