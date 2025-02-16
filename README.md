@@ -36,7 +36,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 DAX measures used in power query can be found [here](assets/DAX/)
 
 ## Data Structure & Checks
-Excel Power Pivot was used to combine 8 million records from 150 files from kaggle and separate them into 2 different datasets, one for electricity and one for gas. A description for both unedited and edited data structure is as follows:
+Excel Power Pivot was used to combine 8 million records from 150 files from kaggle and separate them into 2 different datasets, one for electricity and one for gas. A description for both [unedited](assets/unedited/README.md) and [edited](assets/edited/ERD_Dutch.png) data structure is as follows:
 
 ## Executive Summary
 
