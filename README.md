@@ -2,7 +2,19 @@
 
 ## Introduction
 Analysis from the seven biggest energy providers in the Netherlands about electricity and gas consumption from the years 2013 to 2018 was conducted. The analysis was aimed at uncovering and understanding trends related to energy consumption, regional and provider differences and the key factors that affect them. Insights and recommendations geared towards making informed decisions about promotion of new energy efficient programs, smart meter adoption and infrastructure relating to renewable energy.
-Table of Contents
+
+# Table of Contents
+
+- [Objectives](#Objectives)
+- [Data Description](#Data_Description)
+- [Data Structure & Checks](#Data_Structure_&_Checks)
+- [Executive Summary](#Executive_Summary)
+- [Insights Deep Dive](#Insights_Deep_Dive)
+  - [Energy Consumption](#Energy_Consumption)
+  - [Smartmeter](#Smartmeter)
+  - [Self Production](#Self_Production)
+- [Recommendations](#Recommendations)
+- [Assumptions and Caveats](#Assumptions_and_Caveats)
 
 ## Objectives
 Energy Consumption Analysis: To assess patterns related to energy consumption and key factors that affect them
@@ -24,7 +36,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 DAX measures used in power query can be found here
 
-## Data Structure and Checks
+## Data Structure & Checks
 Excel Power Pivot was used to combine 8 million records from 150 files from kaggle and separate them into 2 different datasets, one for electricity and one for gas. A description for both unedited and edited data structure is as follows:
 
 ## Executive Summary
@@ -59,7 +71,7 @@ High smart meter adoption suggests openness to smarter energy use and potential 
 While all stats for delivery % is down Stedin has the slowest decline of all providers. High smart meter adoption suggests openness to smarter energy use and potential market to push programs. Furthermore, very low smart meter adoption for Coteq and Endinet providers suggest push for adopting should be focused in these markets. 
 Lastly, customers with 1x25 connections also show low adoption.
 
-## Technical issues with the dataset:
+## Assumptions and Caveats:
 The province of Zeeland seems to be missing entirely, but this could be due to there being a fourth provider
 Something is wrong with the historical (pre-2017) data for Eindhoven
 Some cities seem to have multiple providers. This might actually be true, but seems unlikely for some larger cities in Enexis territory like Weert and Deventer
