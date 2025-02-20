@@ -23,11 +23,11 @@ Self-Production Analysis: To analyse city and country wide trends that relate re
 
 ## Data Description
 The analyst is based on a rich dataset encompassing several key aspects to the Dutch energy system.
-1. Geographical Details: Geographical data that details the regions where the providers operate at a regional, zip, city and street level. This information can be used to __
+1. Geographical Details: Geographical data that details the regions where the providers operate at a regional, zip, city and street level. This information can be used to evaluate and execute stratigies down to the regional level.
 
-2. Connection Details: The information provides details for connections in terms of where they are located, if they’re active, how many there are, and the type of connection. This can be used to __
+2. Connection Details: The information provides details for connections in terms of where they are located, if they’re active, how many there are, and the type of connection. Information such as the following allow for determine trends in connection growth and how they impact consumption levels and efficiency.
 
-3. Consumption Details: The datasets provide information related to the amount energy consumed overall, how much was given back to the grid and when they were consumed.
+3. Consumption Details: The datasets provide information related to the amount energy consumed overall, how much was given back to the grid and when they were consumed. Consumption details make it possible to understand patterns related to energy consumption the key factors that affect them and how to further improve rewenable energy consumption.
 
 The use of geographical, connection and consumption details allow for a deeper understanding about the production of Dutch energy, and in turn the action required to increase sustainable energy use. By focusing on key factors and their effects, effective steps can be undertaken. 
 
@@ -42,9 +42,13 @@ Excel Power Pivot was used to combine 8 million records from 150 files from kagg
 
 For electricity, the oligopoly of Stedin, Liander and Enexis made up 97% of energy consumption in the country and 91% of gas consumption. Stedin is based in the regions of Rotterdam, Arnhem and Amsterdam. Liander throughout the idle of the country and Enexis in both south and northern outskirts. All other companies have niche markets that they supply to, E.g Endurise in the South-west on the France border.
 
-Since 2014 there has been a noticeably downward trend in delivery percentage for all companies due to the rise of renewable energy. The lowest of which being Enexis at 84%.and the highest being Stedin at 91%. Westland Infra has the highest smart meter adoption at 37% (electricity) and 34% (gas), while Endinet has the lowest at 5% (electricity)  and 4% (gas). For gas there has been a slight decline in gas consumption for all companies bar a few outlier years.
+The data suggests that the oligopoly of Stedin, Liander and Enexis made up 97% of energy consumption in the country and 91% of gas consumption. Stedin is based in the regions of Rotterdam, Arnhem and Amsterdam. Liander throughout the idle of the country and Enexis in both south and northern outskirts. All other companies have niche markets that they supply to, E.g Endurise in the South-west on the France border. 
+
+Over the past eight years, total electricity consumption in the Netherlands has remained relatively stable, though per-connection usage has declined due to increased energy efficiency and widespread adoption of LED lighting. While smart meter adoption for electricity has grown significantly, reaching 72% by 2020, full adoption is expected to take several more decades. Gas consumption, on the other hand, has seen a steady decline, despite the number of connections increasing. This reduction is largely driven by improvements in energy efficiency, increased use of renewable energy sources like solar power and heat pumps, and existing government incentives. Unlike electricity, where the highest consumption per household is concentrated in specific regions, gas usage remains more evenly spread across major cities.
+Regional differences in energy production and self-sufficiency are notable, with Enexis outperforming other providers due to its presence in the northeast, where there is more space for wind and solar energy generation. In contrast, Stedin lags in self-production as its cities are located in densely populated areas with limited space for renewable infrastructure. The strong correlation between smart meter adoption and low-tariff electricity consumption, particularly in Liander cities, highlights shifting consumer behaviors. However, gas consumption does not follow this trend due to differences in pricing structures. Urbanization also plays a role in limiting self-production capabilities, as densely packed high-rise buildings have fewer opportunities for solar panel installations compared to rural areas.
 
 To further push for sustainable living it is crucial to understand the behaviours and patterns the population undertakes when consuming energy. This report provides an in-depth analysis about energy consumption, smartmeter use and overall self production. By examining these findings, we can identify both successes and areas for further improvement.
+
 
 ## Insights Deep Dive
 ### Energy Consumption
