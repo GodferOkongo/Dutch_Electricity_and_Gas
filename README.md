@@ -65,12 +65,25 @@ For gas connections, smartmeter adoption has increased tenfold since 2013, from 
 Overall, looking at providers individually there is a trend of self-production growing in all regions since around 2012, with Enexis outperforming the other regions.The north-east region where Enexis operates has more space for windmills and solar panels to be placed. On the other hand, Stedin cities are the slowest at increasing self production, due to having their cities inside the populated central region of the country. Enexis cities have the space they need to set up renewable energy systems as they sit on the outskirts of the country. It is easier for smaller towns in these regions to obtain a high percentage of self-produced electricity than the larger cities, again due to the space available. Furthermore, urbanisation may have a limit towards the amount of renewable energy they can produce themselves as these areas come with their own types of problems. For example, flats in high-rise buildings do not have the option to place solar panels.
 
 ## Conclusion
+Continue to promote energy efficiency programs
+Improve grid infrastructure
 Continue to push smartmeter use especially in the Coteq and Endinet regions
 Expand renewable energy in rural areas to potential handle more cities such as the ones in Stedin
-High smart meter adoption suggests openness to smarter energy use and potential market to push programs. Focus on connections such as 1x25 for electricity and g6 for gas.
+Faclitate ways to improve energy efficieny and self production in high-energy areas
+
+Focus on connections such as 1x25 for electricity and g6 for gas.
 
 ## Recommendations
-While all stats for delivery % is down Stedin has the slowest decline of all providers. High smart meter adoption suggests openness to smarter energy use and potential market to push programs. Furthermore, very low smart meter adoption for Coteq and Endinet providers suggest push for adopting should be focused in these markets. 
+1. Continue to promote energy efficiency programs and appliances such as LED lighting and heating-efficiency programs especially in the Stedin region of central Netherlands as they have the highest delivery percentage.
+
+2. Improve grid infrastructure to better manage fluctuations in energy demand and supply, ensuring efficient distribution across regions.
+
+3. Increase incentives and awareness campaigns to encourage households to adopt smart meters, reducing resistance to adoption. Furthermore, Provide real-time consumption insights and usage alerts through smart meter apps to help users optimize energy use. This should be focused in for Coteq and Endinet customers due to relatively low smart meter adoption.
+
+4.  Facilitate policies that enable small-scale energy producers, such as households and businesses, to feed excess power back into the grid.
+
+5. Explore solutions for high-density areas, such as shared solar installations on apartment buildings and community energy projects.
+
 Lastly, customers with 1x25 connections also show low adoption.
 
 ## Assumptions and Caveats:
