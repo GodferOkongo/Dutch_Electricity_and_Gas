@@ -48,6 +48,15 @@ Regional differences in energy production and self-sufficiency are notable, with
 
 To further push for sustainable living it is crucial to understand the behaviours and patterns the population undertakes when consuming energy. This report provides an in-depth analysis about energy consumption, smartmeter use and overall self production. By examining these findings, we can identify both successes and areas for further improvement.
 
+## Dashboards
+
+#### Electricity
+
+![Electricity_Dashboard](assets/images/dutchelectricity.png)
+
+#### Gas
+
+![Gas_Dashboard](assets/images/dutchgas.png)
 
 ## Insights Deep Dive
 ### Energy Consumption
@@ -55,6 +64,7 @@ To further push for sustainable living it is crucial to understand the behaviour
 Total electricity consumption seems to be roughly consistent over the past 8 years, however there has been a slight decline with Liander and Stedin. In the same time frame the number of connections has grown linearly since 2012. This means that the consumption per connection has decreased, possibly due to large scale adoption of more energy-efficient products such as LED-lights. Looking deeper at cities consumption per connection, the 20 biggest cities are in the rural areas in the northeast of the country. This can be attributed to those cities being placed in windy rural parts of the country, allowing for easy access and use of wind turbines and solar panels.
 
 Gas consumption has been on a steady decline from a peak of 1908 m3 in 2013 to a low of 1724m3 in 2019. However, the count of gas connections during the same time grew from 6.7 million to a peak of 7.3 million in the same time period. This further means that in terms of consumption per connection that Dutch households are consuming less gas. Decrease in gas consumption likely stems from the growth in renewable energy and overall energy efficiency improvement because of the additions of solar power, heat pumps and already in place government incentives. Unlike with electricity, the highest consumption per household is not limited to one part of the country as it is spread out across the major cities.
+
 
 ### Smartmeter
 Electrical smartmeter adoption has been growing exponentially up until 2020. The electricity sector is at 72% adoption and at this rate it is expected that the complete transition might take around 30 more years. Additionally, smartmeter percentage is positively correlated with the rise of low tarif consumption, this effect is most predominantly seen in Liander cities. However, it is likely other factors are also affecting the increase in low tariff consumption in the country.
